@@ -57,6 +57,9 @@ header #header-middle-div p{
 /*section1*/ /*do grid here*/
 #section-1-2-grid{
 	padding-top:2em;
+	padding-right: 2em;
+	margin-right:2.5em;
+	margin-left:1em;
 }
 
 #section1{
